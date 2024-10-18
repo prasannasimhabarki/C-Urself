@@ -1,6 +1,8 @@
 {
   "name": "curself",
   "version": "0.1.0",
+  "homepage": "https://prasannasimhabarki.github.io/C-Urself",
+
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
